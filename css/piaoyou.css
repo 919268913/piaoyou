@@ -291,6 +291,7 @@ footer{
 	display: flex;
 	overflow-x: scroll;
 	border-bottom:0.02rem solid #EDEDED; 
+	overflow-y: hidden;
 
 }
 .remenyingpian_btm_grid{
@@ -504,4 +505,7 @@ footer{
 	right: 0;
 	width: 3.9rem;
 	height: 2.93rem;
+}
+.footer_wenzi1,.footer_wenzi2,.footer_wenzi3,.footer_wenzi4{
+	cursor: pointer;
 }
